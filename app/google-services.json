@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "762141315774",
+    "project_id": "instaclone-9eccd",
+    "storage_bucket": "instaclone-9eccd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762141315774:android:6918cff535b3af0707c4ef",
+        "android_client_info": {
+          "package_name": "com.levojuk.instagramclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAig556jSdC_pSeJJqTFALOCTPFGueBx5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
